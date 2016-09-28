@@ -10,4 +10,6 @@ He is a passionate believer that software should not be thought of as a project,
 
 He became a thought leader for microservices based development in response to the desire to help businesses build better products that delight customers and satisfy business outcomes through faster testing, learning & feedback cycles and increased reuse.
 
+Co-creator of https://github.com/muoncore/muon-node[Muon], an open source polyglot multi protocol microservices framework enabling MicroserviceUX concept. Speaker at Mucon, co-organiser of London Microservices meetup group.
+
 Twitter: @gawainhammond https://twitter.com/gawainhammond
